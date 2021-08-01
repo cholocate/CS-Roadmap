@@ -4,7 +4,7 @@
 
 ### Intro to CS
 
-- [ ] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
+- [X] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
 - [ ] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [ ] [6.0002 - Introduction to Computational Thinking and Data Science, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
@@ -23,8 +23,8 @@
 ### Maths
 
 - **Calculus**
-    - [x] [18.01 - Single Variable Calculus, Fall 2006 - MIT](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-    - [x] [18.02 - Multivariable Calculus, Fall 2007 - MIT](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+    - [ ] [18.01 - Single Variable Calculus, Fall 2006 - MIT](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+    - [ ] [18.02 - Multivariable Calculus, Fall 2007 - MIT](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
     - [ ] [18.03 - Differential Equations, Spring 2010 - MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
 - **Linear Algebra**
@@ -42,6 +42,7 @@
 
 -  **Discrete Maths**
     - [ ] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+    - [ ] [CS70 - Discrete Mathematics and Probabillity Theory - UC Berkeley](https://cs70.org/)
 
 -  **Opmitisation**
     - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
