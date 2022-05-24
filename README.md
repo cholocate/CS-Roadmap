@@ -42,7 +42,7 @@
 
 -  **Discrete Maths**
     - [ ] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-    - [ ] [CS70 - Discrete Mathematics and Probabillity Theory - UC Berkeley](https://cs70.org/)
+    - [X] [CS70 - Discrete Mathematics and Probabillity Theory - UC Berkeley](https://cs70.org/)
 
 -  **Opmitisation**
     - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
@@ -67,7 +67,7 @@
 
 ### Data Structures and Algorithms
 
-- [ ] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
+- [X] [CS61B - Data Structures - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61b/sp22/)
 - [ ] [6.006 - Introduction to Algorithms, Fall 2011 - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [ ] [COS226 - Algorithms - Princeton](https://algs4.cs.princeton.edu/home/)
 - [ ] [6.046J - Design and Analysis of Algorithms, Spring 2015 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
